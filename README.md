@@ -11,18 +11,18 @@ The vision of ARoute is to become an essential day to day application for the us
 
 Objectives:
 
-•	To scan the entire targeted location using ARKIT and create a map for the scanned area.
-•	To create a weighted graph from the map we have stored using ARKIT.
-•	To calculate the shortest path between source and destination using A* algorithm.
-•	To augment the shortest path, by arrowheads, onto the screen in real-time.
+To scan the entire targeted location using ARKIT and create a map for the scanned area.
+To create a weighted graph from the map we have stored using ARKIT.
+To calculate the shortest path between source and destination using A* algorithm.
+To augment the shortest path, by arrowheads, onto the screen in real-time.
 
 Key High Level Goal:  
 
-•	ARoute will scan the entire targeted environment.
-•	ARoute will assign marker points in the scanned environment to identify a significant location.
-•	ARoute will convert the scanned environment mapping into a weighted graph.
-•	ARoute will store the graph with the nametags of the targeted location.
-•	ARoute will request the user to enter their destination via text command, speech command or a list of available destinations in the targeted spot.
-•	If the requested location is already placed in the database, the ARoute will show him the available map generated using ARKIT technology.
-•	If the requested location isn't available in the database, the user can scan the entire environment, using ARoute, in order to facilitate other people who may come to that     location and will require an indoor navigation system.
+ARoute will scan the entire targeted environment.
+ARoute will assign marker points in the scanned environment to identify a significant location.
+ARoute will convert the scanned environment mapping into a weighted graph.
+ARoute will store the graph with the nametags of the targeted location.
+ARoute will request the user to enter their destination via text command, speech command or a list of available destinations in the targeted spot.
+If the requested location is already placed in the database, the ARoute will show him the available map generated using ARKIT technology.
+If the requested location isn't available in the database, the user can scan the entire environment, using ARoute, in order to facilitate other people who may come to that     location and will require an indoor navigation system.
 
