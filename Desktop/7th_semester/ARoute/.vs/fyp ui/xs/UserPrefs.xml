@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{70D50D79-B7AA-E9C9-6800-5AFC49DD8849}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/readMap.cs">
+    <Files>
+      <File FileName="Assets/createMap.cs" Line="1" Column="1" />
+      <File FileName="Assets/loginAroute.cs" Line="1" Column="1" />
+      <File FileName="Assets/NavController.cs" Line="1" Column="1" />
+      <File FileName="Assets/readMap.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fyp ui" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="readMap.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8cba6c63-28d7-4804-86e8-b2160f19ee04" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
